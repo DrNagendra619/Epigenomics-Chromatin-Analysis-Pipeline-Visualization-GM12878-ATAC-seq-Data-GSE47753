@@ -75,3 +75,4 @@ The analysis of 99,885 ATAC-seq peaks revealed the following insights:
 3. Length Consistency
 
     Finding: Box plots show that the median peak length and interquartile range are remarkably consistent across all autosomes.
+Insight: This suggests a conserved fundamental structure of open chromatin across the genome, with biological mechanisms of accessibility operating uniformly across chromosomes.
